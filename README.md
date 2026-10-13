@@ -54,23 +54,24 @@ The system converts raw inventory data into meaningful insights that can support
 ### 📊 Interactive Dashboard
 
 The dashboard provides a centralized view of important inventory and sales information.
-## 🖥️ Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Dashboard Overview
-
 ![Dashboard Overview](screenshots/dashboard.png)
 
-### Analytics & Visualizations
+### Charts
+![Charts 1](screenshots/charts_1.png)
 
-![Analytics Charts]("C:\Users\KRUSHITHA\OneDrive\Desktop\DAV_LAB\Screenshorts\charts_1.png"")
-![Analytics Charts](screenshots/charts_2.png")
+![Charts 2](screenshots/charts_2.png)
 
 ### Risk & Reorder Watchlist
+![Risk Watchlist 1](screenshots/risk-watchlist-1.png)
 
-![Risk and Reorder Watchlist](screenshots/risk-watchlist-1.png)
-![Risk and Reorder Watchlist](screenshots/risk-watchlist-2.png)
-![Risk and Reorder Watchlist](screenshots/risk-watchlist-3.png)
-![Risk and Reorder Watchlist](screenshots/risk-watchlist-4.png)
+![Risk Watchlist 2](screenshots/risk-watchlist-2.png)
+
+![Risk Watchlist 3](screenshots/risk-watchlist-3.png)
+
+![Risk Watchlist 4](screenshots/risk-watchlist-4.png)
 
 
 ### 🔍 Dynamic Filters

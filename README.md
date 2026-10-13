@@ -62,7 +62,7 @@ The dashboard provides a centralized view of important inventory and sales infor
 
 ### Analytics & Visualizations
 
-![Analytics Charts](screenshots/charts_1.png")
+![Analytics Charts]("C:\Users\KRUSHITHA\OneDrive\Desktop\DAV_LAB\Screenshorts\charts_1.png"")
 ![Analytics Charts](screenshots/charts_2.png")
 
 ### Risk & Reorder Watchlist
